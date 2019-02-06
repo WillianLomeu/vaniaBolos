@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel:400,700');
+
+body{
+    background-image: url("/src/assets/art-artistic-background-1831234.jpg");
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+#titulo{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+.card-header h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+
+.nav {
+    font-family: 'Cinzel:700', serif;
+}
