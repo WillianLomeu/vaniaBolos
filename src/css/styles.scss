@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel:400,700');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.logo{
+    background-image: url("/src/assets/art-artistic-background-1831234.jpg");
+}
+
+#titulo{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+.titulo h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+
+.nav {
+    font-family: 'Ubuntu', sans-serif;
+}
+.nav-link{
+    padding: 20px;
+}
+
+.card-title{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#bolos{
+    color: color("pink");
+}
