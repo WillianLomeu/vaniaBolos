@@ -48,11 +48,22 @@ h1 {
   outline: none;
   color: #ee9aab;
 }
+
+#sobreVania {
+  background-color: #ee9aab;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+}
+#carreira {
+  color: #ee9aab;
+  font-family:  'Raleway', sans-serif;
+}
+
 #bolos hr{
-  width: 200px;
+  width: 80%;
 }
 #doces hr{
-  width: 200px;
+  width: 80%;
 }
 
 .card-title {
